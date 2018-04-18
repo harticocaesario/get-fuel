@@ -1,0 +1,2613 @@
+[
+	  {
+         "formatted_address" : "Jalan Casablanca Raya Kav. 88, RT.16/RW.5, Menteng Dalam, Tebet, RT.16/RW.5, Menteng Dalam, Tebet, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12870",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.223127, 
+               "lng" : 106.846154
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.401458549999999,
+                  "lng" : 106.771551
+               },
+               "southwest" : {
+                  "lat" : -6.402485950000001,
+                  "lng" : 106.7697042
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4ff814677a1d7d4e2f84d292f9e37c1741546ee6",
+         "name" : "RS Kokas",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106799098551023472870/photos\"\u003eAndi tanas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKKuJ6yh-rypOLshhPzWoWOkUU13-oBLZxD9vY4r2hNudUv0FJEeOThViiqJZjcgouK3li1qJXmWzCystnPfWTssiXlrNNIYGlfaijEVPe0quj9OAmDpG81KUeb8mIcKMIoDxjlYGusyCpqUELjSVpASM06jVXb6lh4XRia3px2LEhCM_tIDwViuFZxcZQb5jCppGhSfEmPWxouydEWWjdBGojxJ6QEsiw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJB3Mgi9_oaS4RVCm1X3vNPQ4",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA5CCK8aum1xGKGsudFmDb9I934iXTSavXRtfblydom5IhWzfIbMCOCZZXwTK-M-VV9oVkstQM_IQJ_zazc8dVlV4oSxlkQDScEKCl_bnEcwWZrHTJhgJoJooEVlkLYot2EhAZbhiP9pfJIHV_QBsh9L0IGhSg9GhQJJazy1SP0Gng6dA6HglnpQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jalan HR. Rasuna Said Kav. X2/02, RT. 07 / RW. 04, Kuningan Timur, Setiabudi, RT.7/RW.4, Kuningan Tim., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 10340",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.22812399999999, 
+               "lng" : 106.835782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.401458549999999,
+                  "lng" : 106.771551
+               },
+               "southwest" : {
+                  "lat" : -6.402485950000001,
+                  "lng" : 106.7697042
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4ff814677a1d7d4e2f84d292f9e37c1741546ee6",
+         "name" : "SPBU Pertamina 31-12902",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106799098551023472870/photos\"\u003eAndi tanas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKKuJ6yh-rypOLshhPzWoWOkUU13-oBLZxD9vY4r2hNudUv0FJEeOThViiqJZjcgouK3li1qJXmWzCystnPfWTssiXlrNNIYGlfaijEVPe0quj9OAmDpG81KUeb8mIcKMIoDxjlYGusyCpqUELjSVpASM06jVXb6lh4XRia3px2LEhCM_tIDwViuFZxcZQb5jCppGhSfEmPWxouydEWWjdBGojxJ6QEsiw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJB3Mgi9_oaS4RVCm1X3vNPQ4",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA5CCK8aum1xGKGsudFmDb9I934iXTSavXRtfblydom5IhWzfIbMCOCZZXwTK-M-VV9oVkstQM_IQJ_zazc8dVlV4oSxlkQDScEKCl_bnEcwWZrHTJhgJoJooEVlkLYot2EhAZbhiP9pfJIHV_QBsh9L0IGhSg9GhQJJazy1SP0Gng6dA6HglnpQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Gatot Subroto, RT.6/RW.3, Kuningan Timur, RT.4/RW.3, Kuningan Tim., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12950",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2331147, 
+               "lng" : 106.8223653
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.401458549999999,
+                  "lng" : 106.771551
+               },
+               "southwest" : {
+                  "lat" : -6.402485950000001,
+                  "lng" : 106.7697042
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4ff814677a1d7d4e2f84d292f9e37c1741546ee6",
+         "name" : "SPBU Pertamina 34-12902",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106799098551023472870/photos\"\u003eAndi tanas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKKuJ6yh-rypOLshhPzWoWOkUU13-oBLZxD9vY4r2hNudUv0FJEeOThViiqJZjcgouK3li1qJXmWzCystnPfWTssiXlrNNIYGlfaijEVPe0quj9OAmDpG81KUeb8mIcKMIoDxjlYGusyCpqUELjSVpASM06jVXb6lh4XRia3px2LEhCM_tIDwViuFZxcZQb5jCppGhSfEmPWxouydEWWjdBGojxJ6QEsiw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJB3Mgi9_oaS4RVCm1X3vNPQ4",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA5CCK8aum1xGKGsudFmDb9I934iXTSavXRtfblydom5IhWzfIbMCOCZZXwTK-M-VV9oVkstQM_IQJ_zazc8dVlV4oSxlkQDScEKCl_bnEcwWZrHTJhgJoJooEVlkLYot2EhAZbhiP9pfJIHV_QBsh9L0IGhSg9GhQJJazy1SP0Gng6dA6HglnpQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jalan Mampang Prapatan Raya No.34, RT.1/RW.2, Kuningan Barat, Mampang Prapatan, RT.1/RW.2, Kuningan Bar., Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12790",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2668232, 
+               "lng" : 106.8157065
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.401458549999999,
+                  "lng" : 106.771551
+               },
+               "southwest" : {
+                  "lat" : -6.402485950000001,
+                  "lng" : 106.7697042
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "4ff814677a1d7d4e2f84d292f9e37c1741546ee6",
+         "name" : "SPBU Pertamina 34-12702",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106799098551023472870/photos\"\u003eAndi tanas\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAKKuJ6yh-rypOLshhPzWoWOkUU13-oBLZxD9vY4r2hNudUv0FJEeOThViiqJZjcgouK3li1qJXmWzCystnPfWTssiXlrNNIYGlfaijEVPe0quj9OAmDpG81KUeb8mIcKMIoDxjlYGusyCpqUELjSVpASM06jVXb6lh4XRia3px2LEhCM_tIDwViuFZxcZQb5jCppGhSfEmPWxouydEWWjdBGojxJ6QEsiw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJB3Mgi9_oaS4RVCm1X3vNPQ4",
+         "rating" : 4.3,
+         "reference" : "CmRRAAAA5CCK8aum1xGKGsudFmDb9I934iXTSavXRtfblydom5IhWzfIbMCOCZZXwTK-M-VV9oVkstQM_IQJ_zazc8dVlV4oSxlkQDScEKCl_bnEcwWZrHTJhgJoJooEVlkLYot2EhAZbhiP9pfJIHV_QBsh9L0IGhSg9GhQJJazy1SP0Gng6dA6HglnpQ",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+      {
+         "formatted_address" : "Jl. Abdul Muis No. 68,Petojo Selatan, Gambir, Jakarta Pusat 10130",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.178355,
+               "lng" : 106.818259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-10202",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Cikini Raya No. 113-115 RT010/RW04,Cikini, Menteng, Jakarta Pusat 10330",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.188299,
+               "lng" : 106.836836899999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-10303",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. H. Samanhudi No. 20, Pasar Baru, Sawah Besar, Jakarta Pusat 10710",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.160346,
+               "lng" : 106.835881999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-10702",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Mangga Besar Raya No. 140, Kartini, Sawah Besar, Jakarta Pusat 10750",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1481214,
+               "lng" : 106.830265699999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-10703",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Daan Mogot Kav. 2 RT007/RW04, Jelambar, Grogol Petamburan, Jakarta Barat 11460",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.16612,
+               "lng" : 106.78704
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-11403",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Tomang Raya No. 42, Jati Pulo, Palmerah, Jakarta Barat 11430",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.176368,
+               "lng" : 106.801601
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-11404",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Daan Mogot Km. 16 RT001/RW01, Kalideres, Kalideres, Jakarta Barat 11840",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.318045,
+               "lng" : 106.836734
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-11802",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Tentara Pelajar, Grogol Utara, Kebayoran Lama, Jakarta Selatan",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2195164,
+               "lng" : 106.791865299999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-12203",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Sultan Iskandar Muda RT011/RW09, Kebayoran Lama Selatan, Kebayoran Lama, Jakarta Selatan 12240",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2464296,
+               "lng" : 106.7818174
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-12204",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Fatmawati Raya No. 6 RT001/RW05, Gandaria Selatan, Cilandak, Jakarta Selatan 12420",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.272164,
+               "lng" : 106.7973948
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-12401",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. RS. Fatmawati No. 19 - 69 RT001/RW03, Cipete Selatan, Cilandak, Jakarta Selatan 12410",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2721896,
+               "lng" : 106.7977761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-12402",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Kemang Selatan Raya No. 105A RT001/RW03, Bangka, Mampang Prapatan, Jakarta Selatan 12730",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.27335,
+               "lng" : 106.818921
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-12701",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Kapt. Tendean No. 38, Kuningan Barat, Mampang Prapatan, Jakarta Selatan 12710",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.239761,
+               "lng" : 106.826171
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-12702",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. MT. Haryono Kav. 18 RT010/RW05, Tebet Barat, Tebet, Jakarta Selatan 12810",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.242717,
+               "lng" : 106.85255
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-12802",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Pramuka No. 18A,Utan Kayu Utara, Matraman, Jakarta Timur 13120",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.194348,
+               "lng" : 106.861791
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-13101",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Otto Iskandardinata Raya No. 69-71 RT007/RW09, Bidara Cina, Jatinegara, Jakarta Timur 13330",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2311626,
+               "lng" : 106.867519
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-13301",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Letjend Sutoyo RT004/RW014, Cililitan, Kramat Jati, Jakarta Timur 13640",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2601969,
+               "lng" : 106.867535
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-13602",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Raya Bogor Km. 28 RT008/RW007, Pekayon, Pasar Rebo, Jakarta Timur 13710",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3181198,
+               "lng" : 106.8368734
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-13701",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Raya Bekasi Cakung No. 1 Km. 21-22, Cakung Barat, Cakung, Jakarta Timur 13910",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1714373,
+               "lng" : 106.9259395
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-13901",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Raya Bekasi Km. 21,Rawa Terate, Cakung, Jakarta Timur 13920",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1826355,
+               "lng" : 106.9147241
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-13904",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Yos Sudarso RT008/RW011, Sunter Jaya, Tanjung Priok, Jakarta Utara 14350",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1453865,
+               "lng" : 106.8895228
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 31-14301",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. P. Tubagus Angke Raya RT004/RW05,Wijaya Kusuma, Grogol Petamburan, Jakarta Barat 11460",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.145115,
+               "lng" : 106.776288
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 33-11301",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Hibrida Raya Grand Orchard, Pegangsaan Dua, Kelapa Gading, Jakarta Utara 14250",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1302635,
+               "lng" : 106.805624
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 33-14201",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jalan Kh. Zainul Arifin, Petojo Utara, Gambir, RT.8/RW.1, Petojo Utara, Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10130",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1605682,
+               "lng" : 106.8155632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10101",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. KH. Hasyim Ashari No. 39, Petojo Utara, Gambir, Jakarta Pusat 10160",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.165585,
+               "lng" : 106.8138114
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10102",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Tanah Abang II No. 6, Petojo Selatan, Gambir, Jakarta Pusat 10130",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.17539,
+               "lng" : 106.816358
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10202",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Hanglekir I No. 4 RT004/RW01, Gelora, Tanah Abang, Jakarta Pusat 10270",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.229025,
+               "lng" : 106.7972884
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10206",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Gereja Theresia, Gondangdia, Menteng, Jakarta Pusat 10310",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1915037,
+               "lng" : 106.8281107
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10301",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. HOS. Cokroaminoto No. 49B, Gondangdia, Menteng, Jakarta Pusat 10310",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.191487,
+               "lng" : 106.8282649
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10305",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Kramat Raya No. 116, Kwitang, Senen, Jakarta Pusat 10420",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1850175,
+               "lng" : 106.8436039
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10401",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Pramuka No. 68 RT013/RW05, Rawasari, Cempaka Putih, Jakarta Pusat 10570",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1924072,
+               "lng" : 106.8650634
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10501",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Letjend. Soeprapto RT007/RW03, Cempaka Putih Barat, Cempaka Putih, Jakarta Pusat 10520",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1730304,
+               "lng" : 106.8650634
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10502",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Letjend Suprapto No. 56, Tanah Tinggi, Johar Baru, Jakarta Pusat 10540",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1752376,
+               "lng" : 106.8618945
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10505",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Cempaka Putih Raya C1 No. 1-2 RT003/RW08, Cempaka Putih Timur, Cempaka Putih, Jakarta Pusat 10510",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1760581,
+               "lng" : 106.8677257
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10507",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Letjen Suprapto Kav. 26 RT007/RW002, Harapan Mulya, Kemayoran, Jakarta Pusat 10640",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.174039,
+               "lng" : 106.8535926
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10605 ",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Pangeran Jayakarta No.111, Mangga Dua Selatan, Sawah Besar, Jakarta Pusat 10730",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1406621,
+               "lng" : 106.8271833
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-10702",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. KS. Tubun No. 20, Slipi, Palmerah, Jakarta Barat 11410",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.198219,
+               "lng" : 106.8032056
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11103",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Hayam Wuruk No. 74-75, Maphar, Taman Sari, Jakarta Barat 11160",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1566789,
+               "lng" : 106.818851
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11104",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. KH. Moch Mansyur No. 133 RT003/RW03, Duri Utara, Tambora, Jakarta Barat 11270",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2024815,
+               "lng" : 106.8061447
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11201",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Tomang Raya No. 59, Tomang, Grogol Petamburan, Jakarta Barat 11440",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1742803,
+               "lng" : 106.803263
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11402",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Kemanggisan Utama Raya No. 6-8 RT011/RW06, Kemanggisan, Palmerah, Jakarta Barat 11480",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1901536,
+               "lng" : 106.7931255
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11403",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Prof. Dr. Latumenten Raya No. 20, Jelambar, Grogol Petamburan, Jakarta Barat 11460",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1558414,
+               "lng" : 106.7923584
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11404",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Palmerah Utara Raya No. 56 RT002/RW06, Palmerah, Palmerah, Jakarta Barat 11480",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.203654,
+               "lng" : 106.7969259
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11405",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Kemanggisan Utama Raya No. 52A, Kemanggisan, Palmerah, Jakarta Barat 11480",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2024815,
+               "lng" : 106.8061447
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11407",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Kedoya Raya No. 14, Kedoya Selatan, Kebon Jeruk, Jakarta Barat 11520",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2024815,
+               "lng" : 106.8061447
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11504",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Kedoya Raya No. 23, Kedoya Selatan, Kebon Jeruk, Jakarta Barat 11520",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1771776,
+               "lng" : 106.7575909
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11506",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Panjang Arteri Kelapa Dua No. 7 RT001/RW002, Kelapa Dua, Kebon Jeruk, Jakarta Barat 11550",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.208625,
+               "lng" : 106.770216
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11507",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Panjang Arteri Kelapa Dua No. 7 RT001/RW002, Kelapa Dua, Kebon Jeruk, Jakarta Barat 11550",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.208625,
+               "lng" : 106.770216
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11507",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Kelapa Dua Raya No. 15, Kebon Jeruk, Kebon Jeruk, Jakarta Barat 11530",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2005046,
+               "lng" : 106.7694938
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11508",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Arteri Panjang No. 38, Kedoya Selatan, Kebon Jeruk, Jakarta Barat 11510",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1800449,
+               "lng" : 106.7663072
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11510",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Kemanggisan Raya RT003/RW05, Kebon Jeruk, Kebon Jeruk, Jakarta Barat 11530",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1949684,
+               "lng" : 106.7818228
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11511",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Panjang No. 45C RT001/RW011, Kebon Jeruk, Kebon Jeruk, Jakarta Barat 11530",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1962232,
+               "lng" : 106.769254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11512",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Swadarma Raya No. 16, Srengseng, Kembangan, Jakarta Barat 11630",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.2190305,
+               "lng" : 106.7604689
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11604",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Meruya Ilir Raya Blok H-4 No. 1 RT013/RW03, Meruya Utara, Kembangan, Jakarta Barat 11620",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.1972056,
+               "lng" : 106.751677
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-11605",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+		 "fuel" : "Pertamax, Pertamina Dex, Premium, Pertalite, Dexlite, Bio Solar",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Margonda Raya No.206, Kemiri Muka, Beji, Kota Depok, Jawa Barat 16423",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3877447,
+               "lng" : 106.8271849
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-16406",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Tanah Baru No.151, RT.2/RW.5, Tanah Baru, Beji, Kota Depok, Jawa Barat 16426",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.381051,
+               "lng" : 106.808648
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-16417",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jalan Grogol, Grogol, Limo, Kota Depok, Jawa Barat 16433",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.38255531,
+               "lng" : 106.79023506
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-16510",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jalan Raya Sawangan, Pancoran MAS, Kota Depok, Jawa Barat 16436",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.39672536,
+               "lng" : 106.80555047
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-16407",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Siliwangi No.48, Depok, Pancoran MAS, Kota Depok, Jawa Barat 16431",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.4000519,
+               "lng" : 106.8258387
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-16404",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Tole Iskandar, Tirtajaya, Sukmajaya, Kota Depok, Jawa Barat 16412",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.40391685,
+               "lng" : 106.8376887
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-16416",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "RT 03 RW 07 Sawangan, Jl. Muchtar Raya, Sawangan Baru, Sawangan, Kota Depok, Jawa Barat 16511",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.39991831,
+               "lng" : 106.77189235
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-16509",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jalan Cipayung Raya, Bojong Pondok Terong, Cipayung, Bojong Pd. Terong, Cipayung, Kota Depok, Jawa Barat 16436",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.43913154,
+               "lng" : 106.79755572
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-1640",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Raya Parung-Ciputat, Serua, Bojongsari, Kota Depok, Jawa Barat 16516",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.37953786,
+               "lng" : 106.74615027
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina 34-16501",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jalan Raya Gas Alam RT. 3/RW. 4, Sukatani, Tapos, Sukatani, Tapos, Kota Depok, Jawa Barat 16454",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.3850256,
+               "lng" : 106.8827764
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU Pertamina",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      },
+	  {
+         "formatted_address" : "Jl. Akses Ui No.83, Tugu, Cimanggis, Kota Depok, Jawa Barat 16451",
+         "geometry" : {
+            "location" : {
+               "lat" : -6.35515738,
+               "lng" : 106.84582475
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -6.403733300000001,
+                  "lng" : 106.75853065
+               },
+               "southwest" : {
+                  "lat" : -6.4042693,
+                  "lng" : 106.75837965
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/doctor-71.png",
+         "id" : "ea4af3d86df5802acb3518e6139cdc830572eb15",
+         "name" : "SPBU-Pertamina",
+		 "fasilitas" : "ATM, Musholla, Toilet",
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112377245039477128138/photos\"\u003eIpunk Akhyar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CoQBdwAAAGrexdnKqMrrLuL81Vi_On9dwQ_RDJk5A1U-GavSjfAvjXaWFIYWzKEDJtaDvYdlMqRAd2GGIFmTqQR_M3IZx7om1EOIavNG0GSzzL7f55puUCp8ripvoCN47VL0ZuJ-12YzSJfAEOS9naXiZBBib34f_9M2bs6okuDvFxvG1p4yEhC3nl_yQD3i1YXzvloyE_sGGhQHm13G1h7pFAkcPo5py3JvurkE6g",
+               "width" : 540
+            }
+         ],
+         "place_id" : "ChIJSbTJqcLoaS4Ry0-9AHZp-iw",
+         "rating" : 3.2,
+         "reference" : "CmRRAAAAsHA9KFtnBIrM8DZ8124_JCP_-Efq1QNMS2omV7cyAoo8Q3PCsPNNj8c68CVkJ3gNw6Hnx0uvlxThZmcAcILOkCvJ0zFbFexGte3_Y1Plso9E8jqu_kcA4Je6hhdhR6I6EhAJ7fkslrpo_bkDDS-O605BGhScCz0ZMBIDT3zCmGq4fod7l-SeLw",
+         "types" : [ "hospital", "point_of_interest", "establishment" ]
+      }
+]
